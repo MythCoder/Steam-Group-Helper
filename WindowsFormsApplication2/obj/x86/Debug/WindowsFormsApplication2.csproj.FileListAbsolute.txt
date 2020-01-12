@@ -1,0 +1,149 @@
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\windows cn\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Windows CN\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form12.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form13.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form14.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form15.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form16.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form19.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form18.resources
+C:\Users\Windows CN\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form17.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form19.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form18.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form15.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form16.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form17.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form12.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form13.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form14.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form20.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form21.resources
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Windows CN\Desktop\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form20.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form19.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form18.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form15.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form16.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form17.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form12.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form13.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form14.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form21.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form22.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form23.resources
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Windows CN\Documents\2010 Projelerim\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form24.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.dll
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.pdb
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\HtmlAgilityPack.xml
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form24.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form23.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form21.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form22.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form20.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form19.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form18.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form15.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form16.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form17.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form10.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form11.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form12.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form13.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form14.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form5.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form6.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form7.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form8.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form9.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Berkay Gebeş\Yazılım\Yazılan Programlar\Koduda Olan Programlar\C#\Steam Duyuru Yardımcısı\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
